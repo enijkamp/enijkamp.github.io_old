@@ -1,6 +1,4 @@
 ---
-title: This is my title
-layout: post
 ---
 
 # Erik Lennart Nijkamp
@@ -17,4 +15,4 @@ abc
 
 def
 
-123
+456
