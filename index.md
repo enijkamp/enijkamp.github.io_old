@@ -15,7 +15,7 @@ My emphasis is on stochastic optimization in deep descriminative and generative 
 Mitch Hill, Erik Nijkamp, Song-Chun Zhu. 2018.
 
 [9] A Dance with the Langevin Equation.
-Erik Nijkamp.
+Erik Nijkamp.  
 Thesis. 2018.
 
 [8] Generative Hierarchical Learning of Sparse FRAME Models.
