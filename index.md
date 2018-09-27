@@ -1,4 +1,6 @@
 ---
+title: Erik Lennart Nijkamp
+layout: post
 ---
 
 # Erik Lennart Nijkamp
@@ -11,8 +13,4 @@ My emphasis is on stochastic optimization in deep descriminative and generative 
 
 A Dance with the Langevin Equation.
 
-abc
-
-def
-
-456
+123
