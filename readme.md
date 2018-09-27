@@ -12,3 +12,5 @@ My emphasis is on stochastic optimization in deep descriminative and generative 
 ## Research
 
 A Dance with the Langevin Equation.
+
+abc
