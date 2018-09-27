@@ -5,14 +5,14 @@ layout: post
 
 # Erik Lennart Nijkamp
 
-My emphasis is on stochastic optimization in descriminative and generative models.
+My emphasis is on stochastic optimization in deep descriminative and generative models.
 
 [GitHub](https://github.com/enijkamp)  [Twitter](https://twitter.com/erik_nijkamp)
 
 ## Research
 
 Building a Telescope to Look Into High-Dimensional Image Spaces.
-Mitch Hill, Erik Nijkamp, Song-Chun Zhu. 2018.
+Mitch Hill, Erik Nijkamp, Song-Chun Zhu. 2018.  
 
 A Dance with the Langevin Equation.
 Erik Nijkamp.
