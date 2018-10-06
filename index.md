@@ -11,6 +11,10 @@ My emphasis is on stochastic optimization in deep discriminative and generative 
 
 ## Research
 
+[11] On the Anatomy of Stochastic Gradients.<br />
+Erik Nijkamp.<br />
+Ph.D. Advancement. 2018
+
 [10] Building a Telescope to Look Into High-Dimensional Image Spaces.<br />
 Mitch Hill, Erik Nijkamp, Song-Chun Zhu.<br />
 QAM. 2018.
