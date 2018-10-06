@@ -50,3 +50,9 @@ ICDE 2009: 66-77. 2009.
 [1] DBPubs: Multidimensional exploration of database publications.<br />
 Akanksha Baid, Andrey Balmin, Heasoo Hwang, Erik Nijkamp, Jun Rao, Berthold Reinwald, Alkis Simitsis, Yannis Sismanis, Frank van Ham.<br />
 PVLDB 2008 1 (2): 1456-1459. 2008.
+
+## Patents & Awards
+IKT Innovative Award. Federal Ministry of Technology. 2012.<br />
+IBM Research Pat Goldberg Best Paper Award. IBM Research. 2011.<br />
+Method for Testing an Application. DE102012223587. 2014.<br />
+Scaling dynamic authority-based search using materialized subgraphs. US20100223266. 2010.<br />
