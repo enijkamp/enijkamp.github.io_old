@@ -13,7 +13,7 @@ My emphasis is on stochastic optimization in deep discriminative and generative 
 
 [12] 
 Divergence Triangle for Joint Training of Generator Model, Energy-based Model, and Inference Model.<br />
-Tian Han*, Erik Nijkamp*, Xiaolin Fang, Mitch Hill, Song-Chun Zhu, Ying Nian Wu<br />
+Tian Han*, Erik Nijkamp*, Xiaolin Fang, Mitch Hill, Song-Chun Zhu, Ying Nian Wu.<br />
 arXiv. 2018.
 
 [11] On the Anatomy of Stochastic Gradients.<br />
