@@ -11,6 +11,11 @@ My emphasis is on stochastic optimization in deep discriminative and generative 
 
 ## Research
 
+[13] 
+A Generative Model for Sampling High-Performance and Diverse Weights for Neural Networks.<br />
+Lior Deutsch*, Erik Nijkamp*, Song-Chun Zhu, Ying Nian Wu.<br />
+Under review. 2019.
+
 [12] 
 Divergence Triangle for Joint Training of Generator Model, Energy-based Model, and Inference Model.<br />
 Tian Han*, Erik Nijkamp*, Xiaolin Fang, Mitch Hill, Song-Chun Zhu, Ying Nian Wu.<br />
