@@ -19,7 +19,7 @@ Under review. 2019.
 [12] 
 Divergence Triangle for Joint Training of Generator Model, Energy-based Model, and Inference Model.<br />
 Tian Han\*, Erik Nijkamp\*, Xiaolin Fang, Mitch Hill, Song-Chun Zhu, Ying Nian Wu.<br />
-arXiv. 2018.
+CVPR. 2019.
 
 [11] On the Anatomy of Stochastic Gradients.<br />
 Erik Nijkamp.<br />
