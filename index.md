@@ -11,6 +11,11 @@ My emphasis is on stochastic optimization in deep discriminative and generative 
 
 ## Research
 
+[15]
+On Learning Non-Convergent Short-Run MCMC Toward Energy-Based Model.<br />
+Erik Nijkamp, Song-Chun Zhu, Ying Nian Wu.<br />
+Under review. 2019.
+
 [14]
 On the Anatomy of MCMC-based Maximum Likelihood Learning of Energy-Based Models.<br />
 Erik Nijkamp\*, Mitch Hill\*, Tian Han, Song-Chun Zhu, Ying Nian Wu.<br />
