@@ -11,8 +11,13 @@ My emphasis is on stochastic optimization in deep discriminative and generative 
 
 ## Research
 
+[16]
+Flow contrastive estimation of energy-based model. Neurips Workshop on Bayesian Deep Learning.<br />
+R Gao, E Nijkamp, Z Xu, AM Dai, DP Kingma, and YN Wu.<br />
+BDL. 2019.
+
 [15]
-On Learning Non-Convergent Non-Persistent Short-Run MCMC Toward Energy-Based Model.<br />
+Learning Non-Convergent Non-Persistent Short-Run MCMC Toward Energy-Based Model.<br />
 Erik Nijkamp, Mitch Hill, Song-Chun Zhu, Ying Nian Wu.<br />
 NeurIPS. 2019.
 
