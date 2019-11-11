@@ -11,25 +11,25 @@ My emphasis is on stochastic optimization in deep discriminative and generative 
 
 ## Research
 
-[16]
+[16] 
+A Generative Model for Sampling High-Performance and Diverse Weights for Neural Networks.<br />
+Lior Deutsch\*, Erik Nijkamp\*, Song-Chun Zhu, Ying Nian Wu.<br />
+Under review. 2019.
+
+[15]
+On the Anatomy of MCMC-based Maximum Likelihood Learning of Energy-Based Models.<br />
+Erik Nijkamp\*, Mitch Hill\*, Tian Han, Song-Chun Zhu, Ying Nian Wu.<br />
+AAAI. 2020.
+
+[14]
 Flow contrastive estimation of energy-based model.<br />
 Ruiqi Gao, Erik Nijkamp, Zhen Xu, Andrew M. Dai, Diederik P. Kingma, and Ying Nian Wu.<br />
 NeurIPS Workshop on Bayesian Deep Learning. 2019.
 
-[15]
+[13]
 Learning Non-Convergent Non-Persistent Short-Run MCMC Toward Energy-Based Model.<br />
 Erik Nijkamp, Mitch Hill, Song-Chun Zhu, Ying Nian Wu.<br />
 NeurIPS. 2019.
-
-[14]
-On the Anatomy of MCMC-based Maximum Likelihood Learning of Energy-Based Models.<br />
-Erik Nijkamp\*, Mitch Hill\*, Tian Han, Song-Chun Zhu, Ying Nian Wu.<br />
-Under review. 2019.
-
-[13] 
-A Generative Model for Sampling High-Performance and Diverse Weights for Neural Networks.<br />
-Lior Deutsch\*, Erik Nijkamp\*, Song-Chun Zhu, Ying Nian Wu.<br />
-Under review. 2019.
 
 [12] 
 Divergence Triangle for Joint Training of Generator Model, Energy-based Model, and Inference Model.<br />
