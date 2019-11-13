@@ -22,7 +22,7 @@ Erik Nijkamp\*, Mitch Hill\*, Tian Han, Song-Chun Zhu, Ying Nian Wu.<br />
 AAAI. 2020.
 
 [14]
-Flow contrastive estimation of energy-based model.<br />
+Flow Contrastive Estimation of Energy-based Model.<br />
 Ruiqi Gao, Erik Nijkamp, Zhen Xu, Andrew M. Dai, Diederik P. Kingma, and Ying Nian Wu.<br />
 NeurIPS Workshop on Bayesian Deep Learning. 2019.
 
