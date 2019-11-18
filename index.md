@@ -11,6 +11,11 @@ My emphasis is on stochastic optimization in deep discriminative and generative 
 
 ## Research
 
+[17]
+Representation Learning: A Statistical Perspective.<br />
+Jianwen Xie, Ruiqi Gao, Erik Nijkamp, Song-Chun Zhu, Ying Nian Wu.<br />
+Annual Review of Statistics and Its Application, 2019. 
+
 [16] 
 A Generative Model for Sampling High-Performance and Diverse Weights for Neural Networks.<br />
 Lior Deutsch\*, Erik Nijkamp\*, Song-Chun Zhu, Ying Nian Wu.<br />
