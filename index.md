@@ -13,6 +13,10 @@ Prior research at IBM Research, Google AI & Brain, and, SalesForce Research Eins
 
 ## Preprints
 
+Learning energy-based model with flow-based backbone by neural transport MCMC.<br />
+E Nijkamp\*, R Ga\o*, P Sountsov, S Vasudevan, B. Pang, SC Zhu, and YN Wu.<br />
+Under Review, 2020.
+
 Learning Latent Space Energy-Based Prior Model.<br />
 B Pang\*, T Han\*, E Nijkamp\*, SC Zhu, and YN Wu.<br /> 
 Under Review, 2020.
