@@ -5,9 +5,9 @@ layout: post
 
 # Erik Lennart Nijkamp
 
-My research emphasis is on stochastic optimization in deep discriminative and generative models.
+Research interests: generative models, representation learning, unsupervised learning, computer vision, natural-language processing.
 
-Prior research at IBM Research, Google AI & Brain, and, SalesForce Research Einstein.
+Research experience: UCLA, IBM Research, Google AI & Brain, and, SalesForce Research Einstein.
 
 [Twitter](https://twitter.com/erik_nijkamp) [GitHub](https://github.com/enijkamp) [LinkedIn](https://www.linkedin.com/in/enijkamp/) [Mail](mailto:erik.nijkamp@gmail.com)
 
