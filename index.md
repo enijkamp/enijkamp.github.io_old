@@ -11,7 +11,7 @@ Prior research at IBM Research, Google AI & Brain, and, SalesForce Research Eins
 
 [Twitter](https://twitter.com/erik_nijkamp) [GitHub](https://github.com/enijkamp) [LinkedIn](https://www.linkedin.com/in/enijkamp/) [Mail](mailto:erik.nijkamp@gmail.com)
 
-## Pre-prints
+## Preprints
 
 Learning Latent Space Energy-Based Prior Model.<br />
 B Pang\*, T Han\*, E Nijkamp\*, SC Zhu, and YN Wu (2020) Learning latent space energy-based prior model.<br /> 
