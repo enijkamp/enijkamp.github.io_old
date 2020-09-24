@@ -9,7 +9,7 @@ Research interests: generative models, representation learning, unsupervised lea
 
 Research experience: UCLA, IBM Research, Google AI & Brain, and SalesForce Research Einstein.
 
-[Twitter](https://twitter.com/erik_nijkamp) [GitHub](https://github.com/enijkamp) [LinkedIn](https://www.linkedin.com/in/enijkamp/) [Mail](mailto:erik.nijkamp@gmail.com)
+Reach out: [Twitter](https://twitter.com/erik_nijkamp) [GitHub](https://github.com/enijkamp) [LinkedIn](https://www.linkedin.com/in/enijkamp/) [Mail](mailto:erik.nijkamp@gmail.com)
 
 ## Preprints
 
