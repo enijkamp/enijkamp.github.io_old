@@ -13,10 +13,12 @@ Prior research at IBM Research, Google AI & Brain, and, SalesForce Research Eins
 
 ## Research
 
+[21]
 Generative Text Modeling through Short Run Inference.<br />
 Bo Pang*, Erik Nijkamp*, Tian Han and Ying Nian Wu.<br /> 
 Under Review, 2020.
 
+[20]
 Learning Multi-layer Latent Variable Model via Variational Optimization of Short Run MCMC for Approximate Inference.<br />
 Erik Nijkamp*, Bo Pang*, Tian Han and Ying Nian Wu.<br />
 ECCV, 2020.
@@ -28,7 +30,7 @@ ACL, 2020.
 
 [18]
 Flow Contrastive Estimation of Energy-Based Model.<br />
-Ruiqi Gao, \textbf{Erik Nijkamp}, Diederik P. Kingma, Zhen Xu, Andrew M. Dai, and Ying Nian Wu.<br />
+Ruiqi Gao, Erik Nijkamp, Diederik P. Kingma, Zhen Xu, Andrew M. Dai, and Ying Nian Wu.<br />
 CVPR, 2020.
 
 [17]
