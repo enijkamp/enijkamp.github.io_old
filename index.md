@@ -11,16 +11,16 @@ Prior research at IBM Research, Google AI & Brain, and, SalesForce Research Eins
 
 [Twitter](https://twitter.com/erik_nijkamp) [GitHub](https://github.com/enijkamp)  [LinkedIn](https://www.linkedin.com/in/enijkamp/) [Mail](mailto:erik.nijkamp@gmail.com)
 
-## Research
+## Publications
 
 [21]
 Generative Text Modeling through Short Run Inference.<br />
-Bo Pang*, Erik Nijkamp*, Tian Han and Ying Nian Wu.<br /> 
+Bo Pang\*, Erik Nijkamp\*, Tian Han and Ying Nian Wu.<br /> 
 Under Review, 2020.
 
 [20]
 Learning Multi-layer Latent Variable Model via Variational Optimization of Short Run MCMC for Approximate Inference.<br />
-Erik Nijkamp*, Bo Pang*, Tian Han and Ying Nian Wu.<br />
+Erik Nijkamp\*, Bo Pang\*, Tian Han and Ying Nian Wu.<br />
 ECCV, 2020.
 
 [19]
