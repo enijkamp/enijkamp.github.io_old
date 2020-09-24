@@ -14,7 +14,7 @@ Prior research at IBM Research, Google AI & Brain, and, SalesForce Research Eins
 ## Pre-prints
 
 Learning Latent Space Energy-Based Prior Model.<br />
-B Pang*, T Han*, E Nijkamp*, SC Zhu, and YN Wu (2020) Learning latent space energy-based prior model.<br /> 
+B Pang\*, T Han\*, E Nijkamp\*, SC Zhu, and YN Wu (2020) Learning latent space energy-based prior model.<br /> 
 Under Review, 2020.
 
 Generative Text Modeling through Short Run Inference.<br />
