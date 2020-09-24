@@ -5,11 +5,31 @@ layout: post
 
 # Erik Lennart Nijkamp
 
-My emphasis is on stochastic optimization in deep discriminative and generative models.
+My research emphasis is on stochastic optimization in deep discriminative and generative models.
+
+Prior research at IBM Research, Google AI / Brain, and, SalesForce Research Einstein Labs.
 
 [GitHub](https://github.com/enijkamp)  [Twitter](https://twitter.com/erik_nijkamp) [LinkedIn](https://www.linkedin.com/in/enijkamp/) [Mail](mailto:erik.nijkamp@gmail.com)
 
 ## Research
+
+Generative Text Modeling through Short Run Inference.<br />
+Bo Pang*, Erik Nijkamp*, Tian Han and Ying Nian Wu.<br /> 
+Under Review, 2020.
+
+Learning Multi-layer Latent Variable Model via Variational Optimization of Short Run MCMC for Approximate Inference.<br />
+Erik Nijkamp*, Bo Pang*, Tian Han and Ying Nian Wu.<br />
+ECCV, 2020.
+
+[19]
+Towards Holistic and Automatic Evaluation of Open-Domain Dialogue Generation.<br />
+Bo Pang*, Erik Nijkamp*, Tian Han and Ying Nian Wu.<br />
+ACL, 2020.
+
+[18]
+Flow Contrastive Estimation of Energy-Based Model.<br />
+Ruiqi Gao, \textbf{Erik Nijkamp}, Diederik P. Kingma, Zhen Xu, Andrew M. Dai, and Ying Nian Wu.<br />
+CVPR, 2020.
 
 [17]
 Representation Learning: A Statistical Perspective.<br />
