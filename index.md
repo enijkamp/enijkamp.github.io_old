@@ -7,7 +7,7 @@ layout: post
 
 Research interests: generative models, representation learning, unsupervised learning, computer vision, natural-language processing.
 
-Research experience: UCLA, IBM Research, Google AI & Brain, and, SalesForce Research Einstein.
+Research experience: UCLA, IBM Research, Google AI & Brain, and SalesForce Research Einstein.
 
 [Twitter](https://twitter.com/erik_nijkamp) [GitHub](https://github.com/enijkamp) [LinkedIn](https://www.linkedin.com/in/enijkamp/) [Mail](mailto:erik.nijkamp@gmail.com)
 
