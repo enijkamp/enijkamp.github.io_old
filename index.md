@@ -9,7 +9,7 @@ My research emphasis is on stochastic optimization in deep discriminative and ge
 
 Prior research at IBM Research, Google AI & Brain, and, SalesForce Research Einstein.
 
-[GitHub](https://github.com/enijkamp)  [Twitter](https://twitter.com/erik_nijkamp) [LinkedIn](https://www.linkedin.com/in/enijkamp/) [Mail](mailto:erik.nijkamp@gmail.com)
+[Twitter](https://twitter.com/erik_nijkamp) [GitHub](https://github.com/enijkamp)  [LinkedIn](https://www.linkedin.com/in/enijkamp/) [Mail](mailto:erik.nijkamp@gmail.com)
 
 ## Research
 
