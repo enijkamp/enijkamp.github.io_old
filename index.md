@@ -9,7 +9,7 @@ My research emphasis is on stochastic optimization in deep discriminative and ge
 
 Prior research at IBM Research, Google AI & Brain, and, SalesForce Research Einstein.
 
-[Twitter](https://twitter.com/erik_nijkamp) [GitHub](https://github.com/enijkamp)  [LinkedIn](https://www.linkedin.com/in/enijkamp/) [Mail](mailto:erik.nijkamp@gmail.com)
+[Twitter](https://twitter.com/erik_nijkamp) [GitHub](https://github.com/enijkamp) [LinkedIn](https://www.linkedin.com/in/enijkamp/) [Mail](mailto:erik.nijkamp@gmail.com)
 
 ## Pre-prints
 
@@ -26,7 +26,6 @@ Lior Deutsch\*, Erik Nijkamp\*, Song-Chun Zhu, Ying Nian Wu.<br />
 Under review. 2019.
 
 ## Selected Publications
-
 
 Learning Multi-layer Latent Variable Model via Variational Optimization of Short Run MCMC for Approximate Inference.<br />
 Erik Nijkamp\*, Bo Pang\*, Tian Han and Ying Nian Wu.<br />
