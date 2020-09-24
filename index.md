@@ -105,8 +105,13 @@ ICDE 2009: 66-77. 2009.
 Akanksha Baid, Andrey Balmin, Heasoo Hwang, Erik Nijkamp, Jun Rao, Berthold Reinwald, Alkis Simitsis, Yannis Sismanis, Frank van Ham.<br />
 PVLDB 2008 1 (2): 1456-1459. 2008.
 
-## Patents & Awards
+## Awards
+Most Promising Statistician Award, 2020.<br />
+Dissertation Year Fellowship, 2020.<br />
+Extreme Science and Engineering Discovery Environment Grant for Super-Computing, 2019.<br />
 IKT Innovative Award. Federal Ministry of Technology. 2012.<br />
 IBM Research Pat Goldberg Best Paper Award. IBM Research. 2011.<br />
+
+## Patents
 Method for Testing an Application. DE102012223587. 2014.<br />
 Scaling dynamic authority-based search using materialized subgraphs. US20100223266. 2010.<br />
