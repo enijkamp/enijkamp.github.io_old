@@ -15,11 +15,7 @@ Reach out: [Twitter](https://twitter.com/erik_nijkamp) [GitHub](https://github.c
 
 Learning energy-based model with flow-based backbone by neural transport MCMC.<br />
 E Nijkamp\*, R Gao\*, P Sountsov, S Vasudevan, B. Pang, SC Zhu, and YN Wu.<br />
-Under Review, 2020.
-
-Learning Latent Space Energy-Based Prior Model.<br />
-B Pang\*, T Han\*, E Nijkamp\*, SC Zhu, and YN Wu.<br /> 
-Under Review, 2020.
+Uner Review, 2020.
 
 Generative Text Modeling through Short Run Inference.<br />
 Bo Pang\*, Erik Nijkamp\*, Tian Han and Ying Nian Wu.<br /> 
@@ -30,6 +26,10 @@ Lior Deutsch\*, Erik Nijkamp\*, Song-Chun Zhu, Ying Nian Wu.<br />
 Under review. 2019.
 
 ## Selected Publications
+
+Learning Latent Space Energy-Based Prior Model.<br />
+B Pang\*, T Han\*, E Nijkamp\*, SC Zhu, and YN Wu.<br /> 
+NeurIPS, 2020.
 
 Learning Multi-layer Latent Variable Model via Variational Optimization of Short Run MCMC for Approximate Inference.<br />
 Erik Nijkamp\*, Bo Pang\*, Tian Han and Ying Nian Wu.<br />
