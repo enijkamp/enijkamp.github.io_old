@@ -43,12 +43,16 @@ Flow Contrastive Estimation of Energy-Based Model.<br />
 Ruiqi Gao, Erik Nijkamp, Diederik P. Kingma, Zhen Xu, Andrew M. Dai, and Ying Nian Wu.<br />
 CVPR, 2020.
 
+Joint Training of Variational Auto-Encoder and Latent Energy-Based Model.<br />
+Tian Han, Erik Nijkamp, Bo Pang, Linqi Zhou, Song-Chun Zhu, and Ying Nian Wu.<br />
+CVPR, 2020.
+
 Representation Learning: A Statistical Perspective.<br />
-Jianwen Xie, Ruiqi Gao, Erik Nijkamp, Song-Chun Zhu, Ying Nian Wu.<br />
+Jianwen Xie, Ruiqi Gao, Erik Nijkamp, Song-Chun Zhu, and Ying Nian Wu.<br />
 Annual Review of Statistics and Its Application, 2019. 
 
 On the Anatomy of MCMC-based Maximum Likelihood Learning of Energy-Based Models.<br />
-Erik Nijkamp\*, Mitch Hill\*, Tian Han, Song-Chun Zhu, Ying Nian Wu.<br />
+Erik Nijkamp\*, Mitch Hill\*, Tian Han, Song-Chun Zhu, and Ying Nian Wu.<br />
 AAAI. 2020.
 
 Flow Contrastive Estimation of Energy-based Model.<br />
@@ -56,11 +60,11 @@ Ruiqi Gao, Erik Nijkamp, Zhen Xu, Andrew M. Dai, Diederik P. Kingma, and Ying Ni
 NeurIPS Workshop on Bayesian Deep Learning. 2019.
 
 Learning Non-Convergent Non-Persistent Short-Run MCMC Toward Energy-Based Model.<br />
-Erik Nijkamp, Mitch Hill, Song-Chun Zhu, Ying Nian Wu.<br />
+Erik Nijkamp, Mitch Hill, Song-Chun Zhu, and Ying Nian Wu.<br />
 NeurIPS. 2019.
 
 Divergence Triangle for Joint Training of Generator Model, Energy-based Model, and Inference Model.<br />
-Tian Han\*, Erik Nijkamp\*, Xiaolin Fang, Mitch Hill, Song-Chun Zhu, Ying Nian Wu.<br />
+Tian Han\*, Erik Nijkamp\*, Xiaolin Fang, Mitch Hill, Song-Chun Zhu, and Ying Nian Wu.<br />
 CVPR. 2019.
 
 Building a Telescope to Look Into High-Dimensional Image Spaces.<br />
