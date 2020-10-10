@@ -15,11 +15,11 @@ Reach out: [Twitter](https://twitter.com/erik_nijkamp) [GitHub](https://github.c
 
 Learning energy-based model with flow-based backbone by neural transport MCMC.<br />
 Erik Nijkamp\*, Ruiqi Gao\*, Pavel Sountsov, Srinivas Vasudevan, Bo Pang, Song-Chun Zhu, and Ying Nian Wu.<br />
-Uner Review, 2020.
+Uner Review. 2020.
 
 Generative Text Modeling through Short Run Inference.<br />
 Bo Pang\*, Erik Nijkamp\*, Tian Han and Ying Nian Wu.<br /> 
-Under Review, 2020.
+Under Review. 2020.
 
 A Generative Model for Sampling High-Performance and Diverse Weights for Neural Networks.<br />
 Lior Deutsch\*, Erik Nijkamp\*, Song-Chun Zhu, Ying Nian Wu.<br />
@@ -29,27 +29,27 @@ Under review. 2019.
 
 Learning Latent Space Energy-Based Prior Model.<br />
 Bo Pang\*, Tian Han\*, Erik Nijkamp\*, Song-Chun Zhu, and Ying Nian Wu.<br /> 
-NeurIPS, 2020.
+NeurIPS. 2020.
 
 Learning Multi-layer Latent Variable Model via Variational Optimization of Short Run MCMC for Approximate Inference.<br />
 Erik Nijkamp\*, Bo Pang\*, Tian Han, Song-Chun Zhu, and Ying Nian Wu.<br />
-ECCV, 2020.
+ECCV. 2020.
 
 Towards Holistic and Automatic Evaluation of Open-Domain Dialogue Generation.<br />
 Bo Pang*, Erik Nijkamp*, Tian Han, and Ying Nian Wu.<br />
-ACL, 2020.
+ACL. 2020.
 
 Flow Contrastive Estimation of Energy-Based Model.<br />
 Ruiqi Gao, Erik Nijkamp, Diederik P. Kingma, Zhen Xu, Andrew M. Dai, and Ying Nian Wu.<br />
-CVPR, 2020.
+CVPR. 2020.
 
 Joint Training of Variational Auto-Encoder and Latent Energy-Based Model.<br />
 Tian Han, Erik Nijkamp, Bo Pang, Linqi Zhou, Song-Chun Zhu, and Ying Nian Wu.<br />
-CVPR, 2020.
+CVPR. 2020.
 
 Representation Learning: A Statistical Perspective.<br />
 Jianwen Xie, Ruiqi Gao, Erik Nijkamp, Song-Chun Zhu, and Ying Nian Wu.<br />
-Annual Review of Statistics and Its Application, 2019. 
+Annual Review of Statistics and Its Application. 2019. 
 
 On the Anatomy of MCMC-based Maximum Likelihood Learning of Energy-Based Models.<br />
 Erik Nijkamp\*, Mitch Hill\*, Tian Han, Song-Chun Zhu, and Ying Nian Wu.<br />
